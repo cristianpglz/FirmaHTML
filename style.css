@@ -1,0 +1,47 @@
+/* CSS styles HTML signature*/
+
+
+/*Whole Body*/
+body{
+    background-image: url("./image/background_image.png");
+    background-repeat: no-repeat;
+    font:200 14px 'Poppins', sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+/*Class*/
+.image_profile{
+
+    margin-right: 50px;
+    float: left;
+
+}
+.information{
+    margin-left:250px ;
+    color: #F0FF00 ;
+
+}
+
+.mark{
+    
+    float: left;
+    margin-right: 20px;
+}
+.data{
+    margin-top: 60px;
+    font-size:15px;
+    
+    color: #000000;
+    
+}
+
+/*Ids*/
+#name{
+    color:#A8B2A8;
+}
+
+#gmail{
+    
+    margin-top: -37px;
+}
